@@ -1,2 +1,2 @@
 # chatino
-just a chat
+just a chat scrip :)
